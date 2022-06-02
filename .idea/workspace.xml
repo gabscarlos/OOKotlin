@@ -76,11 +76,19 @@
       <option name="project" value="LOCAL" />
       <updated>1654146419185</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated to apply the private modifier to set function of cpf property">
+      <created>1654179084008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654179084008</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created person class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created person class" />
+    <MESSAGE value="updated to apply the private modifier to set function of cpf property" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to apply the private modifier to set function of cpf property" />
   </component>
 </project>
